@@ -12,7 +12,7 @@ En este proyecto se realizo una planta de empaquetado donde se hace uso del braz
 2. En la robotica es importante la precision cuando se trata de la manipulación de objetos blandos, delicados, mayor peso, etc.. Ya que un mal movimiento puede significar el daño del objeto.
 3. La simulación con GAZEBO nos permitio llevar acabo la evaluacion y el analisis seguro de nuestra planta de empaquetado, ya que de esta manera nos antisipamos al proceso real y asi lograr una evaluación mas eficiente que presente la mejor configuración de nuestro desarrollo.
 
-### Pasos de ejecucion.
+### Pasos de ejecución proyecto.
 1. Abrir la terminal y ejecutar la siguiente comando.
 $ roslaunch ur5_gazebo empacar_cubos.launch
 
