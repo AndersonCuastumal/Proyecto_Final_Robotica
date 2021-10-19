@@ -27,7 +27,7 @@ $ rosrun ur5_gazebo empacar.py
 5. Listo
 
 ### Recomendaciones:
--Crear un "NuevoEspaciodeTrabajo" y agregar el contenido de este proyecto en el nuevo "NuevoEspaciodeTrabajo" .
+-Crear un "NuevoEspaciodeTrabajo" y agregar el contenido de este proyecto en carpeta SRC del nuevo "NuevoEspaciodeTrabajo" .
 
 
 
