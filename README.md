@@ -14,16 +14,19 @@ En este proyecto se realizo una planta de empaquetado donde se hace uso del braz
 
 ### Pasos de ejecución proyecto.
 1. Abrir la terminal y ejecutar la siguiente comando.
+```
 $ roslaunch ur5_gazebo empacar_cubos.launch
-
+```
 2.Esperar hasta que gazebo haya completado su inicio.
 
 3.Abrir una nueva terminal y ejecutar la siguiente comando.
+```
 $ rosservice call gazebo/unpause_physics
-
+```
 4.En la misma terminal ejecutar el siguiente comando.
+```
 $ rosrun ur5_gazebo empacar.py
-
+```
 5. Listo
 
 ### Recomendaciones:
