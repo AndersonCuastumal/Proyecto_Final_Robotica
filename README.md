@@ -10,7 +10,7 @@ En este proyecto se realizo una planta de empaquetado donde se hace uso del braz
 ### Conclusiones
 1. El area de robotica tiene un gran potencial en el area industrial como lo pudimos observar en el desarrollo de este proyecto donde un robot mediante el acople de diversas herramientas se puede optimizar su funcionamiento.
 2. En la robotica es importante la precision cuando se trata de la manipulación de objetos blandos, delicados, mayor peso, etc.. Ya que un mal movimiento puede significar el daño del objeto.
-3.  
+3. La simulación con GAZEBO nos permitio llevar acabo la evaluacion y el analisis seguro de nuestra planta de empaquetado, ya que de esta manera nos antisipamos al proceso real y asi lograr una evaluación mas eficiente que presente la mejor configuración de nuestro desarrollo.
 
 ### Pasos de ejecucion.
 1. Abrir la terminal y ejecutar la siguiente comando.
