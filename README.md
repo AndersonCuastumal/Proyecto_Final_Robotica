@@ -1,6 +1,5 @@
 # Proyecto_Final_Robotica
 ## Planta de Empaque pasos de ejecucion.
-
 1. Abrir la terminal y ejecutar la siguiente comando.
 $ roslaunch ur5_gazebo empacar_cubos.launch
 
