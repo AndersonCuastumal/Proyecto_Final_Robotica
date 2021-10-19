@@ -1,7 +1,7 @@
 # Proyecto_Final_Robotica
 ## Planta de Empaque 
 ### Descripción
-En este proyecto se realizo una planta de empaquetado donde se hace uso del brazo robotico UR5 quien se encarga de la tarea, este toma un objeto de la banda transportadora y lo traslada a la mesa justo a la posición deseada que se le asigno.
+En este proyecto se realizo una planta de empaquetado donde se hace uso del brazo robotico UR5 quien se encarga de la tarea, este toma un objeto de la banda transportadora y lo traslada a la mesa justo a la posición deseada.
 ### Limitaciones
 1. Este sistema no es capaz de detectar un objeto y capturarlo.
 2. La cinematica del robot esta diseñada para que el robot capture objetos inmobiles fijados en una posición especifica dada por el diseñador.
